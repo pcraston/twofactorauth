@@ -138,6 +138,13 @@ websites:
     doc: https://docs.hackerone.com/hackers/two-factor-authentication.html
     exception: SMS-capable phone required for initial setup.
 
+  - name: Intruder
+    url: https://intruder.io
+    img: intruder.png
+    tfa:
+      - software
+    doc: https://help.intruder.io/two-factor-authentication
+
   - name: McAfee
     url: https://www.mcafee.com/
     img: mcafee.png
